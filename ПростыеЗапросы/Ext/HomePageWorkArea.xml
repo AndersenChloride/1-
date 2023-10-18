@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<HomePageWorkArea xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<WorkingAreaTemplate>OneColumn</WorkingAreaTemplate>
+	<Column>
+		<Item>
+			<Form>96de25f3-c377-4909-b34e-227c9b06dd9f</Form>
+			<Height>10</Height>
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Item>
+		<Item>
+			<Form>bc328f52-9728-47ff-a6a1-30a0761f0175</Form>
+			<Height>10</Height>
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Item>
+		<Item>
+			<Form>5c3246cf-9b3e-4d0a-b793-382f95e4408f</Form>
+			<Height>10</Height>
+			<Visibility>
+				<xr:Common>true</xr:Common>
+			</Visibility>
+		</Item>
+	</Column>
+</HomePageWorkArea>
