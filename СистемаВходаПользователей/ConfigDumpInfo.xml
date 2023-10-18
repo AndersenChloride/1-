@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
+	<ConfigVersions>
+		<Metadata name="Catalog.ВариантыОбедов" id="2319c73e-4481-481c-9425-5cd09c016793" configVersion="4a70bf0c4369d24e9ed0664f14e4693900000000">
+			<Metadata name="Catalog.ВариантыОбедов.Attribute.Рейтинг" id="9528bf53-9fee-4235-a284-f2f36f3cc2f7"/>
+		</Metadata>
+		<Metadata name="Catalog.ВариантыОбедов.Form.ФормаВыбора" id="d26c8d32-6614-4d4d-b554-4a9148df3f13" configVersion="0ea440c139f7294b95be6b2ac6a514a600000000"/>
+		<Metadata name="Catalog.ВариантыОбедов.Form.ФормаВыбора.Form" id="d26c8d32-6614-4d4d-b554-4a9148df3f13.0" configVersion="94cc45c4a2b6fa45bd7d76a3514890f200000000"/>
+		<Metadata name="Catalog.ОбедыПользователей" id="3347b74b-d3f2-43de-9d87-49f238409953" configVersion="58e0996fb430ed4aa7318eb4f29788aa00000000">
+			<Metadata name="Catalog.ОбедыПользователей.Attribute.Заказавший" id="56ae0cca-b5b0-42e7-9ea3-7c629fdbcf6f"/>
+			<Metadata name="Catalog.ОбедыПользователей.Attribute.Дата" id="d7fcf1d3-a014-4503-989d-a1251bfb2457"/>
+			<Metadata name="Catalog.ОбедыПользователей.Attribute.ВариантОбеда" id="f1dfe8fb-0234-4095-b81b-2bb2f82f21f9"/>
+		</Metadata>
+		<Metadata name="Catalog.ОбедыПользователей.Form.ФормаВыбора" id="8a44dabc-3923-410e-a2e3-59770ce11a50" configVersion="d59ac5311c8c1b4fbd8a26f40266a83c00000000"/>
+		<Metadata name="Catalog.ОбедыПользователей.Form.ФормаВыбора.Form" id="8a44dabc-3923-410e-a2e3-59770ce11a50.0" configVersion="b995c522c869884aba182d6f4e10d80700000000"/>
+		<Metadata name="Catalog.Пользователи" id="c07a2280-42c8-43f5-9c22-f2d92ff0765d" configVersion="10dd8907bb5e514abb00dcb7ebf83f7800000000">
+			<Metadata name="Catalog.Пользователи.Attribute.Администратор" id="bb0376f0-04ea-4eed-b95e-e2ae4fcecf94"/>
+			<Metadata name="Catalog.Пользователи.Attribute.УникальныйИдентификатор" id="c9c2c4e1-ad72-4fc9-8ea7-515880b7c01b"/>
+		</Metadata>
+		<Metadata name="CommonForm.ФормаКонстант" id="f3673194-572e-4434-b692-5ae4f292b2cf" configVersion="f89d215ec94afe46bbafa6c447f61f7a00000000"/>
+		<Metadata name="CommonForm.ФормаКонстант.Form" id="f3673194-572e-4434-b692-5ae4f292b2cf.0" configVersion="0f2c87e5f5f3d244a053d5a618a8753e00000000"/>
+		<Metadata name="CommonModule.ОбработчикиОповещений" id="99ded774-84c1-4088-ac38-6c4c7c977db7" configVersion="388cb85b37a8f74993f39803044fb53900000000"/>
+		<Metadata name="CommonModule.ОбработчикиОповещений.Module" id="99ded774-84c1-4088-ac38-6c4c7c977db7.0" configVersion="3a86cec66b73db41b14391b6410385cc00000000"/>
+		<Metadata name="CommonModule.РаботаСДанными" id="8e2fa66e-3836-492d-8d5c-1bd79190400d" configVersion="b145a0e1b277ae4998f60287de46620a00000000"/>
+		<Metadata name="CommonModule.РаботаСДанными.Module" id="8e2fa66e-3836-492d-8d5c-1bd79190400d.0" configVersion="2ef9233276507c44bb413f0f4f346d1500000000"/>
+		<Metadata name="Configuration.Конфигурация" id="16d550cb-e037-4af6-9ad3-e87e1130ca23" configVersion="76800a2c6583874ca3d66fe68bac99a400000000"/>
+		<Metadata name="Configuration.Конфигурация.ManagedApplicationModule" id="4edd8aca-b1c7-407c-a90c-800addf7af23.6" configVersion="c749ac6436cd454fa7fbe57a5f7fc9ff00000000"/>
+		<Metadata name="Constant.КонецРаботы" id="61667e84-1ae4-49ae-a8fe-911951bc65cb" configVersion="9f504fcff1f179429bc9d5234cef361400000000"/>
+		<Metadata name="Constant.НачалоРаботы" id="518c9a37-ba9b-48a6-8f87-effa90dc59a3" configVersion="34a86f487d8548449606b7a8edbe057e00000000"/>
+		<Metadata name="Language.Русский" id="4963a08a-a9bc-4c43-90ed-e32f888eb0f8" configVersion="8a157d7930867145839caaac0ce2d5ef00000000"/>
+		<Metadata name="Role.ВсеПрава" id="439743cc-fb60-4521-84aa-2ab32b84cf53" configVersion="c5c5488b54e2b4469e5619b313da4c3200000000"/>
+		<Metadata name="Role.ВсеПрава.Rights" id="439743cc-fb60-4521-84aa-2ab32b84cf53.0" configVersion="5026fa1f7bc76e449d575a078f99772200000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
